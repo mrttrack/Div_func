@@ -11,3 +11,6 @@ def mul(a,b):
     
 def isEven(a):
     return a%2==0
+
+def justcheck():
+    print("Just Checking!")
